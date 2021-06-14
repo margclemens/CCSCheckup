@@ -1,0 +1,16 @@
+#main-div {
+    font-family: cursive;
+    font-weight: bold;
+    border: 2px solid crimson;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.classy-divs {
+    background: crimson;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px 0;
+    width: 45%;
+}
